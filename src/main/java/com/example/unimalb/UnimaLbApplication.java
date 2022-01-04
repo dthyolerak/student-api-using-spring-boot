@@ -16,6 +16,12 @@ public class UnimaLbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UnimaLbApplication.class, args);
+
+//		try {
+//			SpringApplication.run(UnimaLbApplication.class, args);
+//		} catch (Exception e) {
+//			e.printStackTrace();
+//		}
 	}
 
 }
